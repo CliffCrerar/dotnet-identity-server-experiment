@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/saaswrench/.dotnet/store/|arch|/|tfm|",
+      "/Users/saaswrench/.nuget/packages"
+    ]
+  }
+}
